@@ -1,0 +1,1 @@
+print(input("Give your input").strip().lower())
